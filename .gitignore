@@ -1,5 +1,22 @@
+# Credenciais
 .env
-Placas.csv
+
+# Dados operacionais reais (nunca versionar)
+/entrada/
+/entrada_teste/
+/saida/
+/saida_teste/
+/logs/
+/img/
+*.sswweb
 *.csv
+*.xlsx
+*.pdf
+*.png
+!exemplos/**/*.xlsx
+!exemplos/**/*.sswweb
+
+# Python
 __pycache__/
 *.pyc
+.venv/
