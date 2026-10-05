@@ -1,0 +1,8 @@
+pandas
+numpy
+openpyxl
+python-dotenv
+pyautogui
+pygetwindow
+reportlab
+pywin32
